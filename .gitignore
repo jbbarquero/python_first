@@ -1,0 +1,4 @@
+# See https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
+# See https://github.com/github/gitignore/blob/master/Python.gitignore
+
+.idea
